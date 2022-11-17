@@ -10,7 +10,7 @@ This project uses style factors — such as value, minimum volatility, momentum
 
 - [x] Rank stocks by momentum
 - [x] Rank stocks by low volatility
-- [ ] Rank stocks by value (using P/E or P/B)
+- [x] Rank stocks by value (using P/E or P/B)
 - [ ] Rank stocks by quality (using ROIC)
 - [ ] Rank stocks by size (using market cap.)
 
