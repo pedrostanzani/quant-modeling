@@ -1,5 +1,7 @@
 import pandas as pd
+
 from datetime import date
+from typing import Callable
 
 
 def how_many_days_since_last_trading_day(today_date, df):
@@ -37,7 +39,7 @@ def run_backtest(
     start_date: date, 
     end_date: date, 
     rebalance: int,
-    get_tickers: function
+    get_tickers: Callable
     ):
     """
     :param pd.DataFrame close: DataFrame of closing prices with a datetime index
