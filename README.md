@@ -10,7 +10,7 @@ This project uses style factors — such as value, minimum volatility, momentum
 
 The scope of the project is the analysis of stocks and depositary receipts which are publicly traded in the Brazilian stock market. Additionally, assets were filtered by marketability. 
 
-The IBrX 100 is a Brazilian stock market index that tracks the performance of the 100 most marketable listed companies. All assets analyzed were part of the 100 top stocks ranked by marketability — which aimed to emulate the IBrX 100 components.
+The IBrX 100 is a Brazilian stock market index that tracks the performance of the 100 most marketable listed companies. All assets analyzed were part of the 100 top stocks ranked by marketability on the date of purchase — which aimed to emulate the IBrX 100 components, although the index gets rebalanced every quarter, and not daily.
 
 ## Application and results
 
